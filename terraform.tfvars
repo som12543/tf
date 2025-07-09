@@ -1,5 +1,4 @@
-aws_access_key = "AKIAXUINIWX75JFXKAEL"
+
 aws_region     = "ap-south-1"
-aws_secret_key = "ye/JSc7SEAvhgwKuhBz6d7d5TqDFBRMORn4lgwf7"
 ami_id         = "ami-0b09627181c8d5778"
 instance       = "t2.micro"
